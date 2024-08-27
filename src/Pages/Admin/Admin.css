@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+.admin{
+    display: flex;
+}
+@media(max-width:800px){
+    .admin{
+        flex-direction: column;
+    }
+=======
+.admin{
+    display: flex;
+}
+@media(max-width:800px){
+    .admin{
+        flex-direction: column;
+    }
+>>>>>>> c242d57 (admin and backend)
+}
